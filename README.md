@@ -1,6 +1,6 @@
 ### Oii, bem-vindos ao meu Git Hub! :earth_americas::computer:
 
-####  Me chamo Emylly e sou graduanda em Sistemas de Informação - Universidade Federal de Rio Grande. :octocat:
+####  Me chamo Emylly e sou graduanda em Sistemas de Informação - Universidade Federal de Rio Grande :octocat:. 
 
 &rarr; Técnica em Informática pelo Instituto   Federal do Amazonas ;<br>
 &rarr; Bolsista do Programa de Educação Tutorial do Centro de Ciências Computacionais.
