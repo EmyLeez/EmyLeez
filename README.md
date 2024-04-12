@@ -1,10 +1,10 @@
 ### Oii, bem-vindos ao meu Git Hub! :earth_americas::computer:
+### Me chamo Emylly :octocat:. 
 
-####  Me chamo Emylly e sou graduanda em Sistemas de Informação - Universidade Federal de Rio Grande :octocat:. 
-
+&rarr; Sou graduanda em Sistemas de Informação - Universidade Federal de Rio <br> 
 &rarr; Técnica em Informática pelo Instituto   Federal do Amazonas ;<br>
-&rarr; Bolsista do Programa de Educação Tutorial do Centro de Ciências Computacionais.
-
+&rarr; Bolsista do Programa de Capacitção 4.0 Soft Skill - iTec/FURG-Embrapii - Centro de Robótica e Ciência de Dados.
+De Coari para o Mundo!
 
 <div align="center">
   <a href="https://github.com/Emylly-Guimaraes">
