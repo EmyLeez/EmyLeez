@@ -9,7 +9,8 @@
 <div align="center">
   <a href="https://github.com/Emylly-Guimaraes">
   <img  height="170em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Emylly-Guimaraes&show_icons=true&theme=dracula"/>
-  <img  height="170em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emylly-Guimaraes&layout=compact&langs_count=7&theme=radical"/>
+  <img  height="170em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emylly-Guimaraes&layout=compact&langs_count=7&theme=radical">
+  
 </div><br>
 
 #### Skills
@@ -20,6 +21,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg">
   <img align="center" alt="trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg">
+  <img align="center" alt="vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg">
 </div>
 <br>
 
