@@ -1,10 +1,10 @@
-### Oii, bem-vindos ao meu Git Hub! :earth_americas::computer:
+### Oii, bem-vindos ao meu Git Hub! :computer:
 ### Me chamo Emylly :octocat:. 
 
 &rarr; Sou graduanda em Sistemas de Informação - Universidade Federal de Rio <br> 
 &rarr; Técnica em Informática pelo Instituto   Federal do Amazonas ;<br>
 &rarr; Bolsista do Programa de Capacitção 4.0 Soft Skill - iTec/FURG-Embrapii - Centro de Robótica e Ciência de Dados.
-De Coari para o Mundo!
+
 
 <div align="center">
   <a href="https://github.com/Emylly-Guimaraes">
@@ -28,3 +28,5 @@ De Coari para o Mundo!
   <a href = "mailto:emylly.de.souza.guimaraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emylly-guimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+#### De Coari para o Mundo! :earth_americas:
