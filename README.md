@@ -1,5 +1,6 @@
 ### Oii, bem-vindos ao meu Git Hub! :computer:
-### Me chamo Emylly :octocat:.<img align='right' src="https://trello.com/1/cards/63e830ac278d6c9ed460c09a/attachments/63e8321eadfcb1da9be8c076/previews/63e83222adfcb1da9be8c086/download/download.gif" width="300">
+### Me chamo Emylly :octocat:.
+<img src="https://trello.com/1/cards/63e830ac278d6c9ed460c09a/attachments/63e8321eadfcb1da9be8c076/previews/63e83222adfcb1da9be8c086/download/download.gif" width="150" height="113">
 
 &rarr; Sou graduanda em Sistemas de Informação - Universidade Federal de Rio <br> 
 &rarr; Técnica em Informática pelo Instituto   Federal do Amazonas ;<br>
