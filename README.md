@@ -1,8 +1,8 @@
 ## Oii, bem-vindos ao meu Git Hub! :computer:
 ### <kbd> Me chamo Emylly :octocat:</kbd> <img align ='right' src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width =200>
 
-<p>🌸 Sou graduanda em Sistemas de Informação - Universidade<br> Federal do Rio Grande <br> 
-🌸 Técnica em Informática pelo Instituto<br>  Federal do Amazonas ;<br>
+<p>🌸 Sou graduanda em Sistemas de Informação - Universidade Federal do Rio Grande <br> 
+🌸 Técnica em Informática pelo Instituto<br>Federal do Amazonas ;<br>
 🌸 Bolsista do Programa de Capacitção 4.0 Soft Skill<br> - <a href="http://itecfurg.org/">EMBRAPII iTec/FURG- Centro de Robótica e Ciência de Dados.</kbd></p>
 
 
