@@ -1,5 +1,5 @@
 ## Oii, bem-vindos ao meu Git Hub! :computer:
-### <kbd> Me chamo Emylly :octocat:</kbd> <img align ='right' src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width =150>
+### <kbd> Me chamo Emylly :octocat:</kbd> <img align ='right' src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width =170>
 
 <p> 🌸Sou graduanda em Sistemas de Informação - Universidade Federal do Rio Grande <br> 
 🌸 Técnica em Informática pelo Instituto   Federal do Amazonas ;<br>
