@@ -5,8 +5,12 @@
 </div>  
 
 <p>🌸 Sou graduanda em Sistemas de Informação - Universidade Federal do Rio Grande;<br> 
-🌸 Técnica em Informática pelo Instituto<br>Federal do Amazonas;<br>
-🌸 Bolsista do Programa de Capacitção 4.0 Soft Skill<br> - <a href="http://itecfurg.org/">EMBRAPII iTec/FURG- Centro de Robótica e Ciência de Dados.</kbd></p>
+
+🌸 Bolsista do Programa de Capacitção 4.0 Soft Skill<br> - <a href="http://itecfurg.org/">EMBRAPII iTec/FURG- Centro de Robótica e Ciência de Dados.</kbd>
+
+🌸 Técnica em Informática pelo Instituto<br>Federal do Amazonas;<br></p>
+
+
 
 
 <div align="center">
