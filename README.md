@@ -4,11 +4,13 @@
 <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif"   align="right" width =200>
 </div>  
 
-<p>🌸 Sou graduanda em Sistemas de Informação - Universidade Federal do Rio Grande;<br> 
+<p>🌸 Graduanda em Sistemas de Informação - Universidade Federal do Rio Grande - <a href = "https://www.furg.br/">FURG;</a><br> 
 
-🌸 Bolsista do Programa de Capacitção 4.0 Soft Skill<br> - <a href="http://itecfurg.org/">EMBRAPII iTec/FURG- Centro de Robótica e Ciência de Dados.</kbd>
+🌸 Bolsista do Programa de Capacitção 4.0 Soft Skill<br> - <a href="http://itecfurg.org/">EMBRAPII iTec/FURG- Centro de Robótica e Ciência de Dados;
+</a><br>
 
-🌸 Técnica em Informática pelo Instituto<br>Federal do Amazonas;<br></p>
+🌸 Técnica em Informática pelo Instituto Federal do Amazonas - <a href="http://www2.ifam.edu.br/campus/coari">IFAM</a><br>
+</p>
 
 
 
