@@ -16,9 +16,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/Emylly-Guimaraes">
-  <img  height="170em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Emylly-Guimaraes&show_icons=true&theme=dracula"/>
-  <img  height="170em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emylly-Guimaraes&layout=compact&langs_count=7&theme=radical">
+  <a href="https://github.com/EmyLeez">
+  <img  height="170em" width="45%" src="https://github-readme-stats.vercel.app/api?username=EmyLeez&show_icons=true&theme=dracula"/>
+  <img  height="170em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmyLeez&layout=compact&langs_count=7&theme=radical">
   
 </div><br>
 
