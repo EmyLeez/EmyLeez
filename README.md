@@ -6,7 +6,7 @@
 
 <p>🌸 Graduanda em Sistemas de Informação - Universidade Federal do Rio Grande - <a href = "https://www.furg.br/">FURG;</a><br> 
 
-🌸  Estágiaria de Dados <br> - <a href="https://www.bv.com.br/"> Banco BV   #Leveparaavida
+🌸  Estagiária de Dados <br> - <a href="https://www.bv.com.br/"> Banco BV   #Leveparaavida
 </a><br>
 
 🌸 Técnica em Informática pelo Instituto Federal do Amazonas - <a href="http://www2.ifam.edu.br/campus/coari">IFAM</a><br>
