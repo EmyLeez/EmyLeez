@@ -6,7 +6,7 @@
 
 <p>🌸 Graduanda em Sistemas de Informação - Universidade Federal do Rio Grande - <a href = "https://www.furg.br/">FURG;</a><br> 
 
-🌸 Bolsista do Programa de Capacitção 4.0 Soft Skill<br> - <a href="http://itecfurg.org/">EMBRAPII iTec/FURG- Centro de Robótica e Ciência de Dados;
+🌸  Estágiaria de Dados<br> - <a href="https://www.bv.com.br/"> Banco BV #Leveparaavida
 </a><br>
 
 🌸 Técnica em Informática pelo Instituto Federal do Amazonas - <a href="http://www2.ifam.edu.br/campus/coari">IFAM</a><br>
